@@ -1,0 +1,15 @@
+id: la12l3tydvqamw32as8n3pwyu9r4rf0ea2l2o1s3jnx6enze
+name: zigatari
+license: MIT
+description: An implementation of the classic atari game in Zig and OpenGL
+root_dependencies:
+  - src: git https://github.com/ziglibs/zgl
+    name: zgl
+    main: zgl.zig
+  - src: git https://github.com/hexops/mach-glfw
+    name: mach-glfw
+    main: src/main.zig
+  - src: system_lib glfw
+  - src: git https://github.com/zigimg/zigimg
+
+  - src: git https://github.com/ziglibs/zlm

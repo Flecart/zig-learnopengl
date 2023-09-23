@@ -1,0 +1,5 @@
+2
+git https://github.com/hexops/mach-glfw commit-321efd4065b57e31d8ab0bce720852c1d680d443
+git https://github.com/zigimg/zigimg commit-40ddb16fd246174545b7327a12dce7f0889ada7a
+git https://github.com/ziglibs/zgl commit-81d6990d2849ffd2d082f6ae364a03cc0162ba7e
+git https://github.com/ziglibs/zlm commit-cd287529acbc292519972c1f0e4a53888e584021
